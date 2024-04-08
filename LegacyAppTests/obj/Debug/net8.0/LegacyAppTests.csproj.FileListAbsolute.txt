@@ -100,3 +100,4 @@ C:\Users\jaros\Desktop\zadanie\LegacyAppTests\obj\Debug\net8.0\refint\LegacyAppT
 C:\Users\jaros\Desktop\zadanie\LegacyAppTests\obj\Debug\net8.0\LegacyAppTests.pdb
 C:\Users\jaros\Desktop\zadanie\LegacyAppTests\obj\Debug\net8.0\LegacyAppTests.genruntimeconfig.cache
 C:\Users\jaros\Desktop\zadanie\LegacyAppTests\obj\Debug\net8.0\ref\LegacyAppTests.dll
+C:\Users\jaros\Desktop\zadanie\LegacyAppTests\obj\Debug\net8.0\LegacyAppTests.sourcelink.json
